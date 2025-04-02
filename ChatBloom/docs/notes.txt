@@ -1,0 +1,4 @@
+#Run fastapi
+# uvicorn main:app --reload --> inside api
+#Run Streamlit
+#streamlit run streamlit_app.py

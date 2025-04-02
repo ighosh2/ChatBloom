@@ -1,0 +1,146 @@
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2f497e7b-c3c8-4032-b6de-bf1dd6da00c0, AI Response: GreenGrow Innovations was founded in 2016.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: d9be5912-0cfd-486e-98ff-8c9143af3ca6, AI Response: GreenGrow Innovations was founded in 2014.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 03f7b532-67f2-40e4-9323-bead634d3516, AI Response: GreenGrow Innovations was founded in 2014.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f069c7d6-0df7-4ffb-a5f3-de45e66fae65, AI Response: GreenGrow Innovations was founded in 2014.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 08574a7f-c87e-416f-a8de-99e9af619c09, AI Response: GreenGrow Innovations was founded in 2015.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f646ffce-ae71-4b66-992d-d07cc947d540, AI Response: GreenGrow Innovations was founded in 2010.
+INFO:root:Session ID: None, User Query: Where it is headquartered?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: df1b4473-6104-42f9-8171-b78fb06b2a18, AI Response: GreenGrow Innovations is headquartered in Portland, Oregon.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: Where it is headquartered?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 4fafe498-3a38-4ebd-96f0-1f6c5fe03e77, AI Response: QuantumNext Systems is headquartered in Bangalore, Karnataka, India, while TechWave Innovations is headquartered in San Francisco, California, USA.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b14bcedd-0ab8-4d0a-8e97-4951ab7890f1, AI Response: GreenGrow Innovations was founded in 2010.
+INFO:root:Session ID: b14bcedd-0ab8-4d0a-8e97-4951ab7890f1, User Query: Where it is headquartered?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b14bcedd-0ab8-4d0a-8e97-4951ab7890f1, AI Response: GreenGrow Innovations is headquartered in Portland, Oregon.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1a9f29a1-8e41-4dd5-b5f2-08f0054b8029, AI Response: The context provided does not include information about a company named GreenGrow Innovations. It only mentions GreenFields BioTech and TechWave Innovations. If you need information specifically about GreenGrow Innovations, you may need to check other sources.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: ec4520f5-6172-42a6-9458-7ccac01a7d2b, AI Response: I'm sorry, but I don't have information on a company named GreenGrow Innovations. Could you provide more details or check if the name is correct?
+INFO:root:Session ID: ec4520f5-6172-42a6-9458-7ccac01a7d2b, User Query: Hi, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: ec4520f5-6172-42a6-9458-7ccac01a7d2b, AI Response: Hello! How can I assist you today?
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, AI Response: GreenGrow Innovations was founded in 2010.
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, User Query: Where it is headquartered?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, AI Response: GreenGrow Innovations is headquartered in Portland, Oregon.
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, User Query: Hi, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: string, User Query: what is it?, Model: gpt-4o-mini
+INFO:openai._base_client:Retrying request to /embeddings in 0.405874 seconds
+INFO:openai._base_client:Retrying request to /embeddings in 0.997260 seconds
+INFO:root:Session ID: None, User Query: when was this founded?, Model: gpt-4o-mini
+INFO:openai._base_client:Retrying request to /embeddings in 0.430885 seconds
+INFO:openai._base_client:Retrying request to /embeddings in 0.869256 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: what is aws?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: dd531ac1-0f33-4033-b01c-463f0b62f8bd, AI Response: AWS, or Amazon Web Services, is a comprehensive and widely adopted cloud computing platform provided by Amazon. It offers a range of services, including computing power, storage options, and database management, as well as machine learning, analytics, and Internet of Things (IoT) capabilities. AWS provides these services on a pay-as-you-go basis, allowing businesses and developers to use resources as needed without the need for upfront investments in hardware or infrastructure. AWS is known for its scalability, reliability, and flexibility, making it a popular choice for a variety of applications and workloads across different industries.
+INFO:root:Session ID: None, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30f53963-fcfe-479b-b4f5-b2c17914d287, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: None, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: a3fd00f8-ed4f-4f4c-9f9a-ea86a1826e0d, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: a3fd00f8-ed4f-4f4c-9f9a-ea86a1826e0d, User Query: what is machine learning?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: a3fd00f8-ed4f-4f4c-9f9a-ea86a1826e0d, AI Response: Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform tasks without explicit programming. Instead of being programmed with specific rules, machine learning systems learn from and make predictions or decisions based on data.
+
+In essence, machine learning allows computers to recognize patterns, improve performance on tasks over time, and make informed decisions based on new data. There are several types of machine learning, including:
+
+1. **Supervised Learning**: The model is trained on labeled data (input-output pairs) and learns to map inputs to the correct output.
+
+2. **Unsupervised Learning**: The model is trained on unlabeled data and tries to find patterns or groupings in the data without any specific guidance.
+
+3. **Reinforcement Learning**: The model learns through trial and error, receiving feedback in the form of rewards or penalties based on its actions within an environment.
+
+Machine learning is widely used in various applications, such as image and speech recognition, natural language processing, recommendation systems, and more.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: What is the lumos solar cube?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f8ce1942-4bdf-453c-afa6-c4e60dd4ad0e, AI Response: The Lumos Solar Cube is a flagship product offered by Lumos Solar. It provides scalable solar storage solutions that are designed to meet various energy requirements. The Solar Cube is known for its adaptability, making it suitable for residential, commercial, and industrial applications. It allows users to store and manage their solar energy efficiently, ensuring that energy needs are met in a sustainable and cost-effective manner. The product is central to Lumos Solar's mission to revolutionize electrification through affordable and modular solar energy solutions.
+INFO:root:Session ID: f8ce1942-4bdf-453c-afa6-c4e60dd4ad0e, User Query: can i monitor from my phone?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f8ce1942-4bdf-453c-afa6-c4e60dd4ad0e, AI Response: Yes, through the strategic partnership between EcoWave and Lumos Solar, users can monitor and manage their Solar Cube systems remotely using their smartphones. EcoWave’s advanced IoT technology integrates with Lumos Solar’s systems, enabling users to optimize energy usage across various appliances, HVAC systems, and electric vehicle charging stations from their mobile devices. This functionality provides convenience and control, allowing users to adjust and monitor their energy consumption in real-time, promoting greater energy efficiency.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: What is the lumos solar cube?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b63ea781-c943-4b9a-837f-47f49e77bbe5, AI Response: The Lumos Solar Cube is the flagship product of Lumos Solar, designed to provide scalable solar storage solutions that can be tailored to meet various energy requirements for residential, commercial, and industrial clients. It offers a modular approach to solar energy, allowing users to customize their energy solutions based on their specific needs. The Solar Cube is designed to enhance energy efficiency and integrate with smart home technologies to optimize energy usage across different appliances and systems.
+INFO:root:Session ID: b63ea781-c943-4b9a-837f-47f49e77bbe5, User Query: can i monitor from my phone?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b63ea781-c943-4b9a-837f-47f49e77bbe5, AI Response: Yes, with the integration of EcoWave's advanced IoT technology, users can monitor and manage their Solar Cube systems remotely using their smartphones. This allows for real-time monitoring of energy usage across appliances, HVAC systems, and electric vehicle charging stations, helping optimize energy consumption and improve efficiency.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: What is the lumos solar cube?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 3157d358-b5b6-4025-8345-c50c4aeeb072, AI Response: The Lumos Solar Cube is Lumos Solar's flagship product, designed to provide scalable solar storage solutions tailored to meet various energy requirements. It is a modular system that allows users to harness renewable solar energy efficiently, making it suitable for residential, commercial, and industrial clients. The Solar Cube aims to revolutionize energy independence by offering an innovative and flexible approach to solar energy usage, promoting sustainability and cost-effectiveness.
+INFO:root:Session ID: 3157d358-b5b6-4025-8345-c50c4aeeb072, User Query: can i monitor from my phone?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 3157d358-b5b6-4025-8345-c50c4aeeb072, AI Response: Yes, you can monitor and manage your Lumos Solar Cube systems from your phone. Through the strategic partnership with EcoWave, their advanced IoT technology allows users to remotely access and control their solar energy systems. This integration helps you optimize energy usage across various appliances, HVAC systems, and electric vehicle charging stations, all from your mobile device.
